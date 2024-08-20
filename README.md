@@ -1,1 +1,1 @@
-# Text-Classification-with-Naive-Bayes
+# Email-Classification-with-Naive-Bayes
